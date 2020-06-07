@@ -1,0 +1,27 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift
+(herbs),(root vegetables),0.016268,0.108998,0.007016,0.43125,3.956477
+(white bread),(ham),0.042095,0.026029,0.005084,0.120773,4.639851
+"(citrus fruit, pip fruit)",(tropical fruit),0.013828,0.104931,0.005592,0.404412,3.85406
+(hygiene articles),(napkins),0.032944,0.052364,0.006101,0.185185,3.536498
+(sliced cheese),(sausage),0.024504,0.09395,0.007016,0.286307,3.047435
+(waffles),(chocolate),0.038434,0.049619,0.005796,0.150794,3.039048
+(long life bakery product),(chocolate),0.037417,0.049619,0.005287,0.141304,2.847804
+(sugar),(margarine),0.03396,0.058566,0.005592,0.164671,2.811694
+"(rolls/buns, soda)",(sausage),0.038332,0.09395,0.009659,0.251989,2.68216
+(beef),(pork),0.052466,0.057651,0.007626,0.145349,2.521174
+(chicken),(butter),0.042908,0.055414,0.005796,0.135071,2.437476
+(hard cheese),(sausage),0.024504,0.09395,0.005186,0.211618,2.252452
+"(fruit/vegetable juice, bottled water)",(soda),0.014235,0.174377,0.005186,0.364286,2.089067
+(dessert),(yogurt),0.037112,0.139502,0.009863,0.265753,1.905018
+(chocolate),(pastry),0.049619,0.088968,0.008033,0.161885,1.81959
+"(sausage, rolls/buns)",(soda),0.030605,0.174377,0.009659,0.315615,1.809953
+"(sausage, other vegetables)",(rolls/buns),0.026945,0.183935,0.008846,0.328302,1.784881
+(fruit/vegetable juice),(bottled water),0.072293,0.110524,0.014235,0.196906,1.781571
+"(yogurt, pastry)",(rolls/buns),0.017692,0.183935,0.005796,0.327586,1.78099
+"(sausage, soda)",(rolls/buns),0.024301,0.183935,0.009659,0.39749,2.161034
+(sliced cheese),(rolls/buns),0.024504,0.183935,0.007626,0.311203,1.691921
+(candy),(soda),0.029893,0.174377,0.008643,0.289116,1.65799
+(ham),(rolls/buns),0.026029,0.183935,0.006914,0.265625,1.444125
+(bottled water),(soda),0.110524,0.174377,0.028978,0.26219,1.503577
+"(whole milk, butter)",(whipped/sour cream),0.027555,0.071683,0.006711,0.243542,3.397503
+(waffles),(chocolate),0.038434,0.049619,0.005796,0.150794,3.039048
